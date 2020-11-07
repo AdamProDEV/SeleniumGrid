@@ -1,0 +1,11 @@
+pageFunctionalities\WelcomePageFunc.class
+test\pageBase\PageBase.class
+test\base\TestBase.class
+dev\TimingExtension.class
+test\regression\Regression.class
+test\appUi\AppUi.class
+pages\WelcomePage.class
+dev\DevTest.class
+test\appUtils\AppUtils.class
+test\base\SeleniumUtils.class
+test\appContext\AppContext.class
